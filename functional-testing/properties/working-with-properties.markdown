@@ -1,2 +1,2 @@
-Working with Properties
+Работа со свойствами
 ===
