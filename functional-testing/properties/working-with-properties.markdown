@@ -7,39 +7,7 @@
 	<div id="toc">
 	<div class="toc-top"></div>
 	
-	<div class="toc-middle">
-        <table cellspacing="0" cellpadding="0" class="contenttoc">
-        <tbody><tr>
-            <th>Article Index</th>
-        </tr>
-        
-                <tr>
-                    <td>
-                    <a class="toclink" href="/Functional-Testing/working-with-properties.html#1-defining-properties">1.&nbsp;Defining Properties</a>
-                    </td>
-                </tr>
-                
-                <tr>
-                    <td>
-                    <a class="toclink" href="/Functional-Testing/working-with-properties.html#2-the-properties-teststep">2.&nbsp;The Properties TestStep</a>
-                    </td>
-                </tr>
-                
-                <tr>
-                    <td>
-                    <a class="toclink" href="/Functional-Testing/working-with-properties.html#3-script-access-to-properties">3.&nbsp;Script access to properties</a>
-                    </td>
-                </tr>
-                
-                <tr>
-                    <td>
-                    <a class="toclink" href="/Functional-Testing/working-with-properties.html#4-example-n-centralized-endpoint">4.&nbsp;Example &nbsp;- Centralized Endpoint</a>
-                    </td>
-                </tr>
-                </tbody></table>
-				</div>
-				
-    </div>
+	
 
 <p></p>
 <p>Properties are a central aspect of more advanced testing with soapUI (a general overview of property-management is available at ..). In regard to Functional Testing properties are used to parameterize the execution and functionality of your tests, for example:</p>
