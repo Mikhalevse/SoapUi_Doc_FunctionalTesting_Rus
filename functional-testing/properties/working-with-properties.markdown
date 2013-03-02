@@ -1,4 +1,2 @@
-Привет!  
-fffggfd
-====
----
+Working with Properties
+===
