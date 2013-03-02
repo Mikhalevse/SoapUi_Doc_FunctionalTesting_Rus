@@ -6,6 +6,7 @@
 
 	<div id="toc">
 	<div class="toc-top"></div>
+	
 	<div class="toc-middle">
         <table cellspacing="0" cellpadding="0" class="contenttoc">
         <tbody><tr>
@@ -35,7 +36,9 @@
                     <a class="toclink" href="/Functional-Testing/working-with-properties.html#4-example-n-centralized-endpoint">4.&nbsp;Example &nbsp;- Centralized Endpoint</a>
                     </td>
                 </tr>
-                </tbody></table></div>
+                </tbody></table>
+				</div>
+				
     </div>
 
 <p></p>
