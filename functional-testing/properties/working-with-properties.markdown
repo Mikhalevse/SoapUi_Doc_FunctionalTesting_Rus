@@ -1,6 +1,7 @@
 Работа со свойствами
 ===
 
+<!-- Properties are a central aspect of more advanced testing with soapUI (a general overview of property-management is available at ..). --> Свойства - важная составляющая более продвинутого тестирования с помощью soapUI (общий обзор управления свойствами доступен по ..). <!-- In regard to Functional Testing properties are used to parameterize the execution and functionality of your tests, for example: --> В части функционального тестирования свойства используются для параметризации исполняемых тестов, например:
 
 <div id="article">
 
